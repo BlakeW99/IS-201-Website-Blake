@@ -1,0 +1,31 @@
+a{
+    color: palevioletred;
+  }
+
+  a:hover{
+    text-decoration: underline;
+  }
+  
+  a:visited{
+    color:blueviolet
+  }
+
+  body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: bisque;
+  }
+
+  ul{
+    font-style: italic;
+    text-decoration: none;
+  }
+
+  .header{
+    text-decoration: underline;
+  }
+
+  
+
+
+
+  
